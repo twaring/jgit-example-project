@@ -20,7 +20,7 @@
     <parent>
         <groupId>testId</groupId>
         <artifactId>artId</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
@@ -325,12 +325,12 @@
         <dependency>
             <groupId>testId</groupId>
             <artifactId>artId.it.tests</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0</version>
         </dependency>
         <dependency>
             <groupId>testId</groupId>
             <artifactId>artId.core</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0</version>
         </dependency>
     </dependencies>
 </project>
