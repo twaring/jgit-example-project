@@ -19,7 +19,7 @@
     <groupId>testId</groupId>
     <artifactId>artId</artifactId>
     <packaging>pom</packaging>
-    <version>1.2</version>
+    <version>1.3-SNAPSHOT</version>
     <description>test1</description>
     
     <modules>
