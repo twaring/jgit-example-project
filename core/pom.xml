@@ -19,7 +19,7 @@
     <parent>
         <groupId>testId</groupId>
         <artifactId>artId</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.3-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>artId.core</artifactId>
