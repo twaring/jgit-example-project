@@ -172,11 +172,11 @@
             <noDeploy>true</noDeploy>
 
             <flowInitContext>
-              <masterBranchName>master-asp</masterBranchName>
-              <developBranchName>develop-asp</developBranchName>
-              <featureBranchPrefix>feature-asp/</featureBranchPrefix>
-              <releaseBranchPrefix>release-asp/</releaseBranchPrefix>
-              <hotfixBranchPrefix>hotfix-asp/</hotfixBranchPrefix>
+              <masterBranchName>master</masterBranchName>
+              <developBranchName>develop</developBranchName>
+              <featureBranchPrefix>feature/</featureBranchPrefix>
+              <releaseBranchPrefix>release/</releaseBranchPrefix>
+              <hotfixBranchPrefix>hotfix/</hotfixBranchPrefix>
               <versionTagPrefix>stable-</versionTagPrefix>
             </flowInitContext>
 
