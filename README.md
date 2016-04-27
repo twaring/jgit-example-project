@@ -1,4 +1,4 @@
 # jgit-example-project
 example of jgit
 
-test....
+test.... feature 2.
