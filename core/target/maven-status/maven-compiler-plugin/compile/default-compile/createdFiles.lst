@@ -1,0 +1,6 @@
+testId/core/filters/LoggingFilter.class
+testId/core/models/HelloWorldModel.class
+testId/core/package-info.class
+testId/core/schedulers/SimpleScheduledTask.class
+testId/core/servlets/SimpleServlet.class
+testId/core/listeners/SimpleResourceListener.class
