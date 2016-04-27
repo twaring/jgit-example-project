@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testId.core.models.TestHelloWorldModel" time="0.206" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="testId.core.models.TestHelloWorldModel" time="0.149" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib"/>
@@ -43,7 +43,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -s /var/folders/b4/5r43xkp53qn284q3y9kb44mr0000gn/T/release-settings5286798405717332833.xml clean install --no-plugin-updates -Padobe-public"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -s /var/folders/b4/5r43xkp53qn284q3y9kb44mr0000gn/T/release-settings5637514476552130559.xml clean install --no-plugin-updates -Padobe-public"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -59,5 +59,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="testGetMessage" classname="testId.core.models.TestHelloWorldModel" time="0.206"/>
+  <testcase name="testGetMessage" classname="testId.core.models.TestHelloWorldModel" time="0.149"/>
 </testsuite>

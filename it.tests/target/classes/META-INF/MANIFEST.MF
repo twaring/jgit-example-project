@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1461742424084
+Bnd-LastModified: 1461742715753
 Build-Jdk: 1.8.0_77
 Built-By: waring
 Bundle-Description: Bundles for Integration Tests for test1
