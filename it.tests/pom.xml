@@ -23,7 +23,11 @@
     <parent>
         <groupId>testId</groupId>
         <artifactId>artId</artifactId>
+<<<<<<< HEAD
+        <version>1.1-SNAPSHOT</version>
+=======
         <version>1.0</version>
+>>>>>>> refs/heads/master
         <relativePath>../pom.xml</relativePath>
     </parent>
 
@@ -101,7 +105,11 @@
         <dependency>
             <groupId>testId</groupId>
             <artifactId>artId.core</artifactId>
+<<<<<<< HEAD
+            <version>1.1-SNAPSHOT</version>
+=======
             <version>1.0</version>
+>>>>>>> refs/heads/master
             <type>bundle</type>
             <scope>provided</scope>
         </dependency>
